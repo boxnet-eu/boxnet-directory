@@ -1,0 +1,8 @@
+slug: foo-bar
+name: foo bar GmbH
+description: |
+  foo and bar services
+url: https://example.com
+country: de
+services:
+  - kubernetes

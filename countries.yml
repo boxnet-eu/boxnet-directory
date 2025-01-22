@@ -1,0 +1,131 @@
+# EU Members
+- name: Austria
+  slug: at
+  type: eu
+
+- name: Belgium
+  slug: be
+  type: eu
+
+- name: Bulgaria
+  slug: bg
+  type: eu
+
+- name: Croatia
+  slug: hr
+  type: eu
+
+- name: Cyprus
+  slug: cy
+  type: eu
+
+- name: Czech Republic
+  slug: cz
+  type: eu
+
+- name: Denmark
+  slug: dk
+  type: eu
+
+- name: Estonia
+  slug: ee
+  type: eu
+
+- name: Finland
+  slug: fi
+  type: eu
+
+- name: France
+  slug: fr
+  type: eu
+
+- name: Germany
+  slug: de
+  type: eu
+
+- name: Greece
+  slug: gr
+  type: eu
+
+- name: Hungary
+  slug: hu
+  type: eu
+
+- name: Ireland
+  slug: ie
+  type: eu
+
+- name: Italy
+  slug: it
+  type: eu
+
+- name: Latvia
+  slug: lv
+  type: eu
+
+- name: Lithuania
+  slug: lt
+  type: eu
+
+- name: Luxembourg
+  slug: lu
+  type: eu
+
+- name: Malta
+  slug: mt
+  type: eu
+
+- name: Netherlands
+  slug: nl
+  type: eu
+
+- name: Poland
+  slug: pl
+  type: eu
+
+- name: Portugal
+  slug: pt
+  type: eu
+
+- name: Romania
+  slug: ro
+  type: eu
+
+- name: Slovakia
+  slug: sk
+  type: eu
+
+- name: Slovenia
+  slug: sl
+  type: eu
+
+- name: Spain
+  slug: es
+  type: eu
+
+- name: Sweden
+  slug: se
+  type: eu
+
+# EAA
+- name: Iceland
+  slug: is
+  type: eaa
+
+- name: Liechtenstein
+  slug: li
+  type: eaa
+
+- name: Norway
+  slug: "no"
+  type: eaa
+
+# EFTA
+- name: Switzerland
+  slug: ch
+  type: efta
+
+- name: Ukraine
+  slug: ua
+  type: efta
+

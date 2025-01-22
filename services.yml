@@ -1,0 +1,70 @@
+- name: Bare Metal
+  slug: bare-metal
+  description: Bare Metal Hosting
+  icon: material-server
+
+- name: VPS
+  slug: vps
+  description: Virtual Private Server
+  icon: material-server
+
+- name: GPU
+  slug: gpu
+  description: GPU
+  icon: material-server
+
+- name: Domain Registration Robot
+  slug: domain-robot
+  description: Domain Registration Robot
+  icon: material-earth
+
+- name: DNS
+  slug: dns
+  description: Domain Name System
+  icon: material-earth
+
+- name: Email
+  slug: email
+  description: Email Services
+  icon: material-email
+
+- name: Transactional Email
+  slug: transactional-email
+  description: Transactional Email Service
+  icon: material-email-fast
+
+- name: Kubernetes
+  slug: kubernetes
+  description: Manged Kubernetes Cluster
+  icon: simple-kubernetes
+
+- name: S3 Storage
+  slug: s3
+  description: S3 Compatible Block Storage
+  icon: fontawesome-solid-bucket
+
+- name: CDN
+  slug: cdn
+  description: Content Delivery Network
+  icon: material-earth
+
+- name: Analytics
+  slug: analytics
+  description: Web Analytics Services
+  icon: material-chart-bar
+
+- name: Monitoring
+  slug: monitoring
+  description: Service Monitoring and Alerting
+  icon: material-server
+
+- name: VPN
+  slug: vpn
+  description: Virtual Private Servers
+  icon: material-lock
+
+- name: Terraform Provider
+  slug: terraform
+  description: Terraform Provider
+  icon: simple-terraform
+
