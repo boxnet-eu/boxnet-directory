@@ -108,24 +108,24 @@
   type: eu
 
 # EAA
-- name: Iceland
-  slug: is
-  type: eaa
-
-- name: Liechtenstein
-  slug: li
-  type: eaa
-
-- name: Norway
-  slug: "no"
-  type: eaa
-
-# EFTA
-- name: Switzerland
-  slug: ch
-  type: efta
-
-- name: Ukraine
-  slug: ua
-  type: efta
+#- name: Iceland
+#  slug: is
+#  type: eaa
+#
+#- name: Liechtenstein
+#  slug: li
+#  type: eaa
+#
+#- name: Norway
+#  slug: "no"
+#  type: eaa
+#
+## EFTA
+#- name: Switzerland
+#  slug: ch
+#  type: efta
+#
+#- name: Ukraine
+#  slug: ua
+#  type: efta
 
