@@ -1,0 +1,18 @@
+name: Hetzner GmbH
+description: |
+  Hetzner Online GmbH is a company and data center operator based in Gunzenhausen, Bavaria, in Germany.
+logo: https://avatars.githubusercontent.com/u/30047064?s=200&v=4
+url: https://hetzner.de
+github: hetzneronline
+country: de
+
+services:
+  - bare-metal
+  - instance
+  - object-storage
+  - domain
+  - dns
+
+locations:
+  - de
+  - fi
