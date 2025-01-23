@@ -1,8 +1,10 @@
-slug: foo-bar
 name: foo bar GmbH
 description: |
   foo and bar services
 url: https://example.com
+logo: https://avatars.githubusercontent.com/u/AVATAR_ID?s=200&v=4
+bluesky: example
+github: example
 country: de
 services:
   - kubernetes
