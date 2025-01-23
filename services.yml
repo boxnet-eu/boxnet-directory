@@ -3,9 +3,9 @@
   description: Bare Metal Hosting
   icon: material-server
 
-- name: VPS
-  slug: vps
-  description: Virtual Private Server
+- name: Instances
+  slug: instance
+  description: Virtual Machines
   icon: material-server
 
 - name: GPU
@@ -13,9 +13,9 @@
   description: GPU
   icon: material-server
 
-- name: Domain Registration Robot
-  slug: domain-robot
-  description: Domain Registration Robot
+- name: Domain Registration
+  slug: domain
+  description: Domain Registration
   icon: material-earth
 
 - name: DNS
@@ -25,22 +25,37 @@
 
 - name: Email
   slug: email
-  description: Email Services
+  description: Email Account Services (SMTP, IMAP)
   icon: material-email
 
 - name: Transactional Email
   slug: transactional-email
-  description: Transactional Email Service
+  description: Transactional Email Service API
   icon: material-email-fast
+
+- name: Container Registry
+  slug: container-registry
+  description: Container Registry
+  icon: simple-docker
+
+- name: Managed Databases
+  slug: database
+  description: Managed Databases (PostgreSQL, MySQL, Redis, MongoDB)
+  icon: material-database
+
+- name: Load Balancers
+  slug: load-balancer
+  description: Managed Load Balancers
+  icon: material-earth
 
 - name: Kubernetes
   slug: kubernetes
   description: Manged Kubernetes Cluster
   icon: simple-kubernetes
 
-- name: S3 Storage
-  slug: s3
-  description: S3 Compatible Block Storage
+- name: Object Storage
+  slug: object-storage
+  description: S3 Compatible Object Storage
   icon: fontawesome-solid-bucket
 
 - name: CDN
